@@ -3,9 +3,9 @@
 This repository presents the design and simulation of 4 bit Vedic Multiplier using GDI technique on 28nm CMOS technology using Synopsys Custom Compiler and Synopsys Primewave.
 
 # Table of Contents
-- [Abstract]()
-- [Tools Used]()
-- [GDI Technique]()
+- [Abstract](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#abstract)
+- [Tools Used](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#tools-used)
+- [GDI Technique](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-technique)
 - [Vedic Multiplier]()
 - [Reference Circuit]()
 - [GDI EXOR Gate]()
@@ -37,13 +37,36 @@ number of Transistors and hence lesser power and area than the conventional Stat
 
 # GDI Technique
 
-  Gate diffusion Input (GDI) technique. Using this technique one can design a digital circuit with low power in embedded system. The number of transistors used in the circuit is
+  Gate diffusion Input (GDI) technique. Using this technique one can design a digital circuit with low power consumption. The number of transistors used in the circuit is
 minimum hence they are used by the circuit is reduced as well as the delay and power consumption. Compared to the existing conventional designs GDI technique is much efficient.
 Even though the technique has many advantages, there are few drawbacks which can be rectified. A GDI cell consists of 3 inputs. One input G which is the gate input for PMOS and
 NMOS, P which is the input to source/drain of PMOS and N which is the input to source/drain of NMOS.
   The major benefit of using GDI technique is that a large number of functions can be implemented using this technique. We can see from the table 2 that GDI can be used for
 implementing various designs such as MUX, AND, OR etc. The main drawback of GDI technique is that of swing degradation. This is due to threshold loss and to eliminate this we
 have to use silicon on insulator or twin-well process to realize, which is very expensive. 
+<p align="center">
+  ![Basic GDI Cell](https://user-images.githubusercontent.com/54439300/155849634-4a313df4-f98a-4cf6-b461-43a1aeeaffaf.png)
+  Basic GDI Cell
+  ![Implementation of Gates using GDI](https://user-images.githubusercontent.com/54439300/155850184-8ef828df-d3a4-4b78-b519-0cbdde6e0e52.png)
+  Implementation of Boolean circuit using GDI
+</p>
 
-![Basic GDI Cell](https://user-images.githubusercontent.com/54439300/155849634-4a313df4-f98a-4cf6-b461-43a1aeeaffaf.png)
+# Vedic Multiplier
 
+  Vedic Multiplication has proven itself to be one of the efficient and simplified way of multiplying technique, it is an ancient technique and follows a unique set of steps to
+give required product.it is a robust technique and gives accurate arithmetic results.
+
+# Steps involved in the  Multiplication of 101 by 110 is explained below:
+  1.First need to take right hand digits from both multiplicand and multiplier. Then multiply them together. Then we will get the LSB digit of the answer.
+  2. Multiply second bit of the top number with the LSB of the bottom number. Then multiply LSB of the top number with the second bit of the bottom number. Then add them
+  together to get second bit of the answer.
+  3. Multiply third bit of the bottom with the LSB of the top number, second bit of the bottom number with the second bit of the top number, LSB of the bottom number with the
+  third bit of the top number. Then add them together to get third bit of the answer.
+  4. This step is same as second step, just move one place to the left. We will multiply the second digit of one number by the MSB of the other number.
+  5. Finally multiply the LSB of the top and bottom number to get final product.
+<p align="center">
+  ![steps of multiplication](https://user-images.githubusercontent.com/54439300/155850743-6653afdf-e8d8-4d0e-82d9-73332903a975.png)
+  Multiplication of two 4-bit numbers using urdhvatiryakbhyam.
+</p>
+
+#Reference Circuit
