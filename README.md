@@ -189,3 +189,15 @@ Steps involved in the  Multiplication of 101 by 110 is explained below:
 </p>
 
 # Netlist
+
+Netlist of the 4 bit Vedic Multiplier Circuit can be found [here](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/Netlist/4-bit_vedic_multiplier.sp)
+
+# Acknowledgements
+
+- [Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)
+- [Synopsys](https://www.synopsys.com/)
+- [IIT Hyderabad](https://iith.ac.in/)
+- [Sameer Durgoji, NIT Karnataka](https://www.linkedin.com/in/sameer-s-durgoji-340b26180/)
+- [Chinmay Panda, IIT Hyderabad]
+
+# References
