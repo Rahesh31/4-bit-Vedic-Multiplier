@@ -44,5 +44,6 @@ NMOS, P which is the input to source/drain of PMOS and N which is the input to s
   The major benefit of using GDI technique is that a large number of functions can be implemented using this technique. We can see from the table 2 that GDI can be used for
 implementing various designs such as MUX, AND, OR etc. The main drawback of GDI technique is that of swing degradation. This is due to threshold loss and to eliminate this we
 have to use silicon on insulator or twin-well process to realize, which is very expensive. 
+
 ![Basic GDI Cell](https://user-images.githubusercontent.com/54439300/155849634-4a313df4-f98a-4cf6-b461-43a1aeeaffaf.png)
 
