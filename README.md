@@ -206,3 +206,4 @@ Netlist of the 4 bit Vedic Multiplier Circuit can be found [here](https://github
 - [Chinmay Panda, IIT Hyderabad]
 
 # References
+
