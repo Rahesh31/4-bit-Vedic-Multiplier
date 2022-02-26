@@ -8,12 +8,13 @@ This repository presents the design and simulation of 4 bit Vedic Multiplier usi
 - [GDI Technique](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-technique)
 - [Vedic Multiplier]()
 - [Reference Circuit]()
+- [GDI Inverter Gate]()
 - [GDI EXOR Gate]()
 - [GDI EXNOR Gate]()
 - [GDI NAND Gate]()
 - [GDI NOR Gate]()
 - [GDI AND Gate]()
-- [GDI MUX]()
+- [GDI MUX_2x1]()
 - [GDI Half Adder]()
 - [GDI Full Adder]()
 - [GDI 4-bit Vedic Multiplier]()
@@ -44,11 +45,17 @@ NMOS, P which is the input to source/drain of PMOS and N which is the input to s
   The major benefit of using GDI technique is that a large number of functions can be implemented using this technique. We can see from the table 2 that GDI can be used for
 implementing various designs such as MUX, AND, OR etc. The main drawback of GDI technique is that of swing degradation. This is due to threshold loss and to eliminate this we
 have to use silicon on insulator or twin-well process to realize, which is very expensive. 
-<p>
-  <img align="center" src="https://user-images.githubusercontent.com/54439300/155850948-68074f04-f1e6-4336-9c42-93fbfa1b2100.png">
-  <b align="center" Basic GDI Cell>
-  <img align="center" src="https://user-images.githubusercontent.com/54439300/155850955-8e8cabae-b10c-4bac-a258-d1dd97dd9223.png">
-  <b align="center" Implementation of Boolean circuit using GDI>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155850948-68074f04-f1e6-4336-9c42-93fbfa1b2100.png"> <br>
+</p>
+<p align="center">
+  <b> Basic GDI Cell </b> <br>
+</p>
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/54439300/155850955-8e8cabae-b10c-4bac-a258-d1dd97dd9223.png"> <br>
+</p>
+<p align="center">
+  <b> Implementation of Boolean circuit using GDI </b> <br>
 </p>
 
 # Vedic Multiplier
@@ -65,14 +72,120 @@ Steps involved in the  Multiplication of 101 by 110 is explained below:
   4. This step is same as second step, just move one place to the left. We will multiply the second digit of one number by the MSB of the other number.
   5. Finally multiply the LSB of the top and bottom number to get final product.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54439300/155850962-07d71dcf-ab2a-4508-8cb2-cc3ca481dd86.png"/>
-  <b Multiplication of two 4-bit numbers using urdhvatiryakbhyam.>
+  <img src="https://user-images.githubusercontent.com/54439300/155850962-07d71dcf-ab2a-4508-8cb2-cc3ca481dd86.png"> <br>
+</p>
+<p align="center">
+  <b> Multiplication of two 4-bit numbers using urdhvatiryakbhyam </b> <br>
 </p>
 
-#Reference Circuit
+# Reference Circuit
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54439300/155850973-adea210c-366a-49fc-a0c3-8b65bc75c646.png"/>
-  <b 4-bit Vedic Multiplier Circuit>
+  <img src="https://user-images.githubusercontent.com/54439300/155850973-adea210c-366a-49fc-a0c3-8b65bc75c646.png"> <br>
+</p>
+<p align="center">
+  <b> 4-bit Vedic Multiplier Circuit </b> <br>
 </p>
 
+# GDI Inverter Gate
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155852709-d84adc05-ab04-4ac6-9d4c-db89ffa0c5ce.png"> <br>
+</p>
+
+# GDI EXOR Gate
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155852802-994e6f5c-641e-43e9-8466-453f7eec0bf1.png"> <br>
+</p>
+
+# GDI EXNOR Gate
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155852901-1e7bdec3-43c0-4c5e-8379-246b42faf8e3.png"> <br>
+</p>
+
+# GDI NAND Gate
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155853101-47c7d0a2-7861-45f7-8b0a-7c555202501e.png"> <br>
+</p>
+
+# GDI NOR Gate
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155853183-c798b780-860d-4160-914b-f3ddbd10b98d.png"> <br>
+</p>
+
+# GDI AND Gate
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155853254-f41ef122-ad8b-4059-977f-be24326a076d.png"> <br>
+</p>
+
+# GDI MUX_2x1
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155853291-e3d426e3-39fe-4168-872d-1268b60b99aa.png"> <br>
+</p>
+
+# GDI Half Adder
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155853374-2009ff1f-f84c-4505-8d16-0e4e7e1dab38.png"> <br>
+</p>
+
+# GDI Full Adder
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155853422-961f5cd0-de33-45aa-9862-e9a826da669d.png"> <br>
+</p>
+
+# GDI 4-bit Vedic Multiplier
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155854044-d2aff17b-cff7-4dd7-8093-2583e46ca640.png"> <br>
+</p>
+
+# Simulations
+
+# Transient Analysis
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155855198-dfea5acb-f505-4889-831c-497f9ab527b7.png"> <br>
+</p>
+<p align="center">
+  <b> Testbench Schematic for Transient Analysis </b> <br>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155855388-14e686b1-172c-4f27-8e12-d356eef5b247.png"> <br>
+</p>
+<p align="center">
+  <b> Transient Analysis Inputs </b> <br>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155855369-c4e4eeab-d86e-415d-b1f6-3912029e9a5b.png"> <br>
+</p>
+<p align="center">
+  <b> Transient Analysis Outputs </b> <br>
+</p>
+
+# DC Analysis
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155855768-3ed27afa-6efd-4649-8922-fd203d157972.png"> <br>
+</p>
+<p align="center">
+  <b> Testbench Schematic for DC Analysis </b> <br>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54439300/155855729-27df082a-1f35-42ce-abfa-0e102fa951ba.png"> <br>
+</p>
+<p align="center">
+  <b> DC Analysis results </b> <br>
+</p>
+
+# Netlist
