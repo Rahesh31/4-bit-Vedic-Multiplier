@@ -20,6 +20,7 @@ This repository presents the design and simulation of 4 bit Vedic Multiplier usi
 - [GDI 4-bit Vedic Multiplier](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#gdi-4-bit-vedic-multiplier)
 - [Simulations](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#simulations)
 - [Netlist](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#netlist)
+- [Author](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#author)
 - [Acknowedgements](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#acknowledgements)
 - [References](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#references)
 
@@ -191,6 +192,10 @@ Steps involved in the  Multiplication of 101 by 110 is explained below:
 # Netlist
 
 Netlist of the 4 bit Vedic Multiplier Circuit can be found [here](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/Netlist/4-bit_vedic_multiplier.sp)
+
+# Author
+
+- [Rahesh R, B.E ECE, PSG Institute of Technology and Applied Research](https://www.linkedin.com/in/rahesh-r-396b8118b/)
 
 # Acknowledgements
 
