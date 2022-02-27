@@ -196,19 +196,19 @@ Netlist of the 4 bit Vedic Multiplier Circuit can be found [here](https://github
 
 # Transistor Count
 
-- [Inverter Gate]() : 2
-- [NAND Gate]() : 2
-- [NOR Gate]() : 2
-- [EXOR Gate]() : 4
-- [EXNOR Gate]() : 4
-- [2:1 MUX Gate]() : 2
-- [AND Gate]() : 6
-- [Half Adder]() : 10
-- [Full Adder]() : 22
-- [4 bit Vedic Multiplier Circuit]() : 312
+- [Inverter Gate](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-inverter-gate) : 2
+- [NAND Gate](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-nand-gate) : 2
+- [NOR Gate](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-nor-gate) : 2
+- [EXOR Gate](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-exor-gate) : 4
+- [EXNOR Gate](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-exnor-gate) : 4
+- [2:1 MUX Gate](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-mux_2x1) : 2
+- [AND Gate](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-and-gate) : 6
+- [Half Adder](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-half-adder) : 10
+- [Full Adder](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-full-adder) : 22
+- [4 bit Vedic Multiplier Circuit](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-4-bit-vedic-multiplier) : 312
 
 Transistors used in 4-bit CMOS Vedic Multiplier : 432 [2]
-Transistors used in 4-bit GDI Vedic Multiplier  : 312 
+Transistors used in 4-bit GDI Vedic Multiplier  : 312 [here](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-4-bit-vedic-multiplier)
 
 # Results
 
