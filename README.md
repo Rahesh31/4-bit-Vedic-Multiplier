@@ -20,6 +20,7 @@ This repository presents the design and simulation of 4 bit Vedic Multiplier usi
 - [GDI 4-bit Vedic Multiplier](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#gdi-4-bit-vedic-multiplier)
 - [Simulations](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#simulations)
 - [Netlist](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#netlist)
+- [Transistor Count]()
 - [Author](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#author)
 - [Acknowedgements](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#acknowledgements)
 - [References](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#references)
@@ -192,6 +193,26 @@ Steps involved in the  Multiplication of 101 by 110 is explained below:
 # Netlist
 
 Netlist of the 4 bit Vedic Multiplier Circuit can be found [here](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/Netlist/4-bit_vedic_multiplier.sp)
+
+# Transistor Count
+
+- [Inverter Gate]() : 2
+- [NAND Gate]() : 2
+- [NOR Gate]() : 2
+- [EXOR Gate]() : 4
+- [EXNOR Gate]() : 4
+- [2:1 MUX Gate]() : 2
+- [AND Gate]() : 6
+- [Half Adder]() : 10
+- [Full Adder]() : 22
+- [4 bit Vedic Multiplier Circuit]() : 312
+
+Transistors used in 4-bit CMOS Vedic Multiplier : 432 [2]
+Transistors used in 4-bit GDI Vedic Multiplier  : 312 
+
+# Results
+
+The 4-bit Vedic Multiplier circuit designed using GDI Technique on 28nm Technology uses lesser number of transistors(312) than 4-bit CMOS Vedic Multiplier(432). Thus, it consumes lesser area and less power than CMOS Vedic Multiplier.
 
 # Author
 
