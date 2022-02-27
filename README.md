@@ -202,8 +202,9 @@ Netlist of the 4 bit Vedic Multiplier Circuit can be found [here](https://github
 - [Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)
 - [Synopsys](https://www.synopsys.com/)
 - [IIT Hyderabad](https://iith.ac.in/)
+- [Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
 - [Sameer Durgoji, NIT Karnataka](https://www.linkedin.com/in/sameer-s-durgoji-340b26180/)
-- [Chinmay Panda, IIT Hyderabad]()
+- [Chinmay Panda, IIT Hyderabad](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
 
 # References
 
