@@ -20,7 +20,7 @@ This repository presents the design and simulation of 4 bit Vedic Multiplier usi
 - [GDI 4-bit Vedic Multiplier](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#gdi-4-bit-vedic-multiplier)
 - [Simulations](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#simulations)
 - [Netlist](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#netlist)
-- [Transistor Count]()
+- [Transistor Count](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#transistor-count)
 - [Author](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#author)
 - [Acknowedgements](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#acknowledgements)
 - [References](https://github.com/Rahesh31/4-bit-Vedic-Multiplier#references)
@@ -207,8 +207,8 @@ Netlist of the 4 bit Vedic Multiplier Circuit can be found [here](https://github
 - [Full Adder](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-full-adder) : 22
 - [4 bit Vedic Multiplier Circuit](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-4-bit-vedic-multiplier) : 312
 
-Transistors used in 4-bit CMOS Vedic Multiplier : 432 [2]
-Transistors used in 4-bit GDI Vedic Multiplier  : 312 [here](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-4-bit-vedic-multiplier)
+- Transistors used in 4-bit CMOS Vedic Multiplier : 432 [2]
+- Transistors used in 4-bit GDI Vedic Multiplier  : 312 [here](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-4-bit-vedic-multiplier)
 
 # Results
 
