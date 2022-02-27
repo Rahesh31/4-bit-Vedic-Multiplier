@@ -210,11 +210,15 @@ Netlist of the 4 bit Vedic Multiplier Circuit can be found [here](https://github
 
 [1] Rishu  Yadav,  Manish  Kumar,  “Implementation  of  4X4  Fast  Vedic Multiplier  using  GDI  Method”,  2020  International  Conference  on Electrical and Electronics
 Engineering (ICE3-2020) 
+
 [2] Malti  Bansal,  Jasmeet  Singh, “Comparative  Analysis  of 4-bit  CMOS Vedic  Multiplier  and  GDI  Vedic  Multiplier  using  18nm  FinFET Technology”, International
 Conference on Smart Electronics and Communication (ICOSEC 2020). 
+
 [3] G.R.Mahendra Babu, S.Bhavani, “Primitive Cells using Gate Diffusion  Input  Technique:  a  Low  Power  Approach”, International Journal of Recent Technology and Engineering
 (IJRTE), June 
+
 [4] K.Anirudh Kumar Maurya, Y.Rama Lakshmanna,K.Bala Sindhuri, N. Udaya Kumar, “Design and Implementation of 32-bit  adders  using various  Full  Adders”,  International
 Conference  on  Innovations  in Power and Advanced computing Technologies[i-PACT2017].
+
 [5] Mehedi Hasan, Hasan U. Zaman, Mainul Hossain, Parag Biswas, Sharnali Islam, "Gate Diffusion Input technique based full swing and scalable 1-bit hybrid Full Adder for high
 performance applications", Engineering Science and Technology, an International Journal, 2020.
