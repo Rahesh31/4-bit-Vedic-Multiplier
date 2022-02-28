@@ -200,7 +200,7 @@ CMOS Multiplier:
 - Transistor Count : 432 [2]
 
 GDI Multiplier:
-- Transistor Count : [312]() 
+- Transistor Count : [312](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-4-bit-vedic-multiplier) 
 - Power Consumed   : [125.2 uW](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/Output/Power%20Calculation.PNG)
 - Delay            : [15.18 ps](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/Output/Delay%20Calculation.PNG)
 
