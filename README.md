@@ -219,8 +219,8 @@ CMOS Multiplier:
 
 GDI Multiplier:
 - Transistor Count : [312](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#gdi-4-bit-vedic-multiplier) 
-- Power Consumed   : [125.2 uW](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/Output/4bit_vedic_multiplier_power_output.PNG)
-- Delay            : [95.33 ps](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/Output/4bit_vedic_multiplier_delay_output.PNG)
+- Delay            : [95.33 ps](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#delay-analysis)
+- Power Consumed   : [125.2 uW](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/README.md#power-analysis)
 
 The 4-bit Vedic Multiplier circuit designed using GDI Technique on 28nm Technology uses lesser number of transistors(312) than 4-bit CMOS Vedic Multiplier(432). Thus, it consumes lesser area and less power than CMOS Vedic Multiplier.
 
