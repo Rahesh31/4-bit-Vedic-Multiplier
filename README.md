@@ -190,6 +190,24 @@ Steps involved in the  Multiplication of 101 by 110 is explained below:
   <b> DC Analysis results </b> <br>
 </p>
 
+# Delay Analysis
+
+<p align="center">
+  <img src="https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/Output/4bit_vedic_multiplier_delay_output.PNG"> <br>
+</p>
+<p align="center">
+  <b> Delay Analysis results </b> <br>
+</p>
+
+# Power Analysis
+
+<p align="center">
+  <img src="https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/Output/4bit_vedic_multiplier_power_output.PNG"> <br>
+</p>
+<p align="center">
+  <b> Power Analysis results </b> <br>
+</p>
+
 # Netlist
 
 Netlist of the 4 bit Vedic Multiplier Circuit can be found [here](https://github.com/Rahesh31/4-bit-Vedic-Multiplier/blob/main/Netlist/4-bit_vedic_multiplier.sp)
